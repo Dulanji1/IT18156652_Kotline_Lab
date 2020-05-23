@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LoginFormKotlinLab</string>
+    <string name="lab1">Welcome to Kotlin World!</string>
+    <string name="val2">Click Here To Login</string>
+    <string name="t3">Email</string>
+    <string name="t4">Password</string>
+    <string name="b2">Login</string>
+    <string name="msg1">Login Successful</string>
+    <string name="msg2">Login Successful!</string>
+</resources>
